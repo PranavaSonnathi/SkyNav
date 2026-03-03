@@ -1,6 +1,6 @@
 {
-  "name": "LayoverBuddy",
-  "short_name": "LayoverBuddy",
+  "name": "SkyNav",
+  "short_name": "SkyNav",
   "description": "Navigate airports and optimize your layover time",
   "start_url": "/",
   "display": "standalone",
